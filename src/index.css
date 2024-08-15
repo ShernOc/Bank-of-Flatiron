@@ -1,4 +1,27 @@
-:root,
+* {
+  box-sizing: border-box;
+  text-align: center;
+}
+
+input {
+  width: 25% !important;
+  margin-right: 0.25em !important;
+  margin-left: 0.25em !important;
+}
+
 body {
-  height: 100%;
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+.App {
+  text-align: center;
+}
+
+
+.App-header {
+  background-color: #222;
+  padding: 20px;
+  color: white;
 }

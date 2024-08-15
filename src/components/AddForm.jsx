@@ -1,3 +1,5 @@
+import React from "react";
+
 function AddForm({ onAdd }) {
   function addTransaction(event) {
     event.preventDefault();

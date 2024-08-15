@@ -3,7 +3,6 @@ import { useEffect, useState } from "react";
 import TransactionList from "./components/TransactionList";
 import AddForm from "./components/AddForm";
 import SearchForm from "./components/SearchForm";
-
 import "./App.css";
 
 function App() {
